@@ -1,3 +1,4 @@
 learn
 update
 select
+delete
